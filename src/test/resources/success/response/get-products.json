@@ -1,0 +1,16 @@
+[
+  {
+    "productId": 4432,
+    "productName": "Parker Coat",
+    "colour": "Green",
+    "price": 1999,
+    "supplierNumber": 212
+  },
+  {
+    "productId": 1233,
+    "productName": "Dress",
+    "colour": "red",
+    "price": 5000,
+    "supplierNumber": 854
+  }
+]
